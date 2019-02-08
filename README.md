@@ -1,3 +1,5 @@
+# Modify this to work with other datasets such as bio-medical ones.
+
 # Named-Entity-Recognition-with-Bidirectional-LSTM-CNNs
   A keras implementation of Bidirectional-LSTM_CNNs for Named-Entity-Recoganition. The original paper can be found at https://arxiv.org/abs/1511.08308
 
